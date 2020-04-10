@@ -64,6 +64,7 @@ class Student {
 }
 
 class facultyFeature {
+
 List<Student> lista1=new List<Student>();
 String imeFakultet;
 
